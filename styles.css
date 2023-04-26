@@ -1,0 +1,36 @@
+*{margin:0}
+
+.main-container {
+    background: gray;
+}
+
+.float-item{
+    float: left;
+    width: 50%;
+}
+
+.oneButton {
+    padding: 5px;
+}
+.oneButton:hover {
+    background: gray;
+    transition: 0.3s;
+}
+
+.buttonsLeft {
+    width: 25%;
+    box-shadow: 2px 2px 8px #000000;
+    background: white;
+    color: black;
+}
+.stdText {
+    color: white;
+    background: teal;
+}
+.center {
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: rgb(71, 71, 71);
+}
