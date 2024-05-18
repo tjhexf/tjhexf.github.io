@@ -17,17 +17,27 @@
     font-family: "Poetsen One";
     filter: drop-shadow(0px 0px 4px black);
   }
+  h2 {
+    color: white;
+    font-family: "Poetsen One";
+    filter: drop-shadow(0px 0px 4px black);
+  }
   p {
     color: white;
     font-family: "Poetsen One";
-    font-size: 18px;
     filter: drop-shadow(0px 0px 4px black);
   }
   a {
-    color: white;
     font-family: "Poetsen One";
+    color:rgb(255, 174, 255);
     filter: drop-shadow(0px 0px 4px black);
-    font-size: x-large;
+  }
+  .links-box {
+    border-top: 3px solid rgb(162, 0, 255);
+    border-bottom: 3px solid rgb(162, 0, 255);
+    background-color: #c796ff;
+    width: 120px;
+    font-size: 16px;
   }
 
 .center {
