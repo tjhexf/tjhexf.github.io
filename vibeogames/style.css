@@ -32,11 +32,13 @@
     filter: drop-shadow(0px 0px 4px black);
   }
   .links-box {
-    border-top: 3px solid rgb(162, 0, 255);
-    border-bottom: 3px solid rgb(162, 0, 255);
-    background-color: #c796ff;
+    padding-left: 10px;
+    border: 3px solid rgb(162, 0, 255);
+    background-color: #be85ff;
     width: 120px;
     font-size: 16px;
+    filter: drop-shadow(0px 0px 1px black);
+    border-radius: 15px;
   }
   .separator {
     border: 2px solid #bb80ff;
